@@ -6,22 +6,31 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
   }
+  body{ 
+     background-color: #141414;
+     height: 100vh;
 
-  body {
-    background-color: #141414;
-   height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     }
 
-   display: flex;
-   justify-content: center;
-   align-items: center;
-  }
-  border: 1px solid
-  div { 
-    background-color: #1F1F1F;
-   color: white;
-   width: 384px;
-  }
+     div { 
+      background-color: #1F1F1F;
+      color: white;
+      width: 384px;
+    }
 
-  ul, li {
+    
+   ul, li { 
     list-style: none;
+   }
+
+
+
+
+
+
+
+
   }
